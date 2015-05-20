@@ -1,0 +1,26 @@
+--President
+AAA
+
+--Manager
+BBB
+*Assistant Manager
+*CCC
+
+--Members
+---SDT1
+---Team Leader
+*DDD
+**EEE
+FFF
+GGG
+HHH
+III
+JJJ
+
+---SDT2
+---TL
+*KKK
+*LLL
+MMM
+NNN
+OOO
